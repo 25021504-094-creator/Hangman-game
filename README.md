@@ -3,16 +3,16 @@ This is my first project a  simple Hangman game using basics of python such as s
 <br>
 Features:
 <br>
-Random word selection 
-Hangman graphics
-Input validation
-Replay options
-limited trys
-No reapted words 
+Random word selection, 
+Hangman graphics,
+Input validation,
+Replay options,
+limited trys,
+ and No reapted words 
 <br>
 Technologies used:
 <br>
-Pyton(Basics)
+Pyton(Basics),
 Random module
 
 
